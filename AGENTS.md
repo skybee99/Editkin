@@ -227,3 +227,9 @@ Note that `src/mcp` reaches `src/application` freely, and `src/application` is t
 | Plugin capability or GPU effect | `src/plugins/manifest.ts`, `registry.ts`, `effectSdk.ts`, `plugins/README.md` |
 | Auto-update logic | `src/application/updateManager.ts`, `electron/updateIpc.ts`, `docs/RELEASE.md` |
 | Build/contribution policy | `docs/BUILDING.md`, `docs/SECURITY_MODEL.md`, `CONTRIBUTING.md` |
+
+<!-- DAVID-DOT-DRIVE-20261127 BEGIN -->
+## DOT acceptance evidence
+
+For any DOT-assisted acceptance, archive the report, original evidence and related acceptance data in the project owner's authorized Google Drive. Organize by project and date or run, verify the uploaded files, and link the evidence index in the acceptance handoff. Follow the project's existing access and sensitive-data rules.
+<!-- DAVID-DOT-DRIVE-20261127 END -->
